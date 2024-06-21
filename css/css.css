@@ -11,3 +11,9 @@ main{
     width: 400px;
     box-shadow: 2px 4px 6px 2px rgb(126, 101, 148);
 }
+.link{
+    box-shadow: 2px 4px 6px 2px rgb(126, 101, 148);
+border-radius: 10px;
+   font-size: 400;
+    color: black;
+}
